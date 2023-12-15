@@ -258,7 +258,7 @@
         #Lettergrotte {
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items:center;
             width: 70%;
             margin:auto;
             height: 80px;
